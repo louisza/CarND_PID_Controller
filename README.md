@@ -1,8 +1,4 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
+
 # CARND Term 2 
 # Project 4 - PID controller 
 
