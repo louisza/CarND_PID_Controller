@@ -1,0 +1,3 @@
+/mnt/c/Work/repos/CarND-PID-Controller/build/CMakeFiles/edit_cache.dir
+/mnt/c/Work/repos/CarND-PID-Controller/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Work/repos/CarND-PID-Controller/build/CMakeFiles/pid.dir
